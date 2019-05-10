@@ -1,5 +1,5 @@
 # ESTK_CN
-This item ,I want to ranslate ESTK interface into Chinese.
+In this item ,I want to translate ESTK interfaces UI into Chinese.Help more users use native language.
 <br> 
 Need some others can hele me to finish this work together.
 <br> 
