@@ -7,10 +7,16 @@ Need some others can hele me to finish this work together.
 <br> 
 替换方法 ：
 <br> 
-1
+STEP: 1
 <br> 
-下载两个DAT文件到 C:/Program Files(x86)/Adobe/estk/requried/
+下载两个DAT文件到目录 64位系统
+C:/Program Files(x86)/Adobe/estk/requried/
 <br> 
-2
+STEP: 2
 <br> 
 开启ESTK，语言选择中文即可
+
+STEP: 3
+<br>
+效果如下图
+<img src="1.jpg">
